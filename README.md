@@ -10,7 +10,7 @@
 - You should write unit tests for all the code (except Front End)
 - Code should be modular and optimized.
 
-###Scenario 1 - Receipe App
+### Scenario 1 - Receipe App
 
 As part of this scenario, you should read the file "receipe.json" and create below REST endpoints
 1. [endpoint 1] One endpoint to display all receipes
@@ -32,7 +32,7 @@ Integrate these endpoints with Front End which should have below behaviours
 - A button which should display all receipe's in a table
 - A multiple selectable dropdown which should select ingredients and passed as input to above endpoint [endpoint 2]. The result should be shown in a table.
 
-###Scenario 2 - Log Analyser app
+### Scenario 2 - Log Analyser app
 
 As part of this scenario, you should read the file "logFile-2018-09-10.log" and perform below actions
 
